@@ -1,6 +1,6 @@
 <template>
   <div class="input">
-    hui
+
   </div>
 </template>
 

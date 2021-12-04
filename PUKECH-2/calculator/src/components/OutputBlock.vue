@@ -1,6 +1,6 @@
 <template>
   <div class="output">
-   pizda
+
   </div>
 </template>
 
